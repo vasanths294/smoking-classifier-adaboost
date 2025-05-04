@@ -19,7 +19,7 @@ This repository focuses on the AdaBoost Classifier, implemented by Vasanthakumar
 
 ## Dataset Source
 
-This project uses the [Smoking and Drinking Dataset with Body Signal]([(https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset/data)]), publicly available on Kaggle.
+This project uses the [Smoking and Drinking Dataset with Body Signal](https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset/data), publicly available on Kaggle.
 
 
 ## What Is AdaBoost?
